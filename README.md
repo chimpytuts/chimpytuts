@@ -9,13 +9,13 @@
 
 💞️ I thrive on collaborations that fuel innovation, particularly in the realms of web3 and decentralized applications. Should you harbor an exciting idea or a project warranting partnership, I wholeheartedly invite you to connect with me.
 
-<table>
+<table style="border-collapse: collapse; border: 0;">
   <tr>
-    <td>
+    <td style="border: 0;">
       <img src="https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api/top-langs/?username=chimpytuts&include_private&hide=issues&bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff" />
     </td>
-    <td>
-      <img src="https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues&bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff" />
+    <td style="border: 0;">
+      <img src="https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues&bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&rank_icon=github" />
     </td>
   </tr>
 </table>
