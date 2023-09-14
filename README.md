@@ -12,9 +12,11 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chimpytuts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chimpytuts)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/chimpytuts)  
 
-![Top Langs](https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api/top-langs/?username=chimpytuts&include_private&hide=issues&theme=transparent)
+![Top Langs](https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api/top-langs/?username=chimpytuts&include_private&hide=issues&theme=transparent#gh-dark-mode-only)
+![Top Langs](https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api/top-langs/?username=chimpytuts&include_private&hide=issues#gh-light-mode-only)
 
-![GitHub stats](https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues&theme=transparent)  
+![GitHub stats](https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues&theme=transparent#gh-dark-mode-only)  
+![GitHub stats](https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues#gh-light-mode-only)  
 
 
 
