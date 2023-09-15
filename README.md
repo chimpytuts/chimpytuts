@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api/top-langs/?username=chimpytuts&include_private&hide=issues&bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&layout=compact" alt="chimpytuts" /></p>
 
-<p>&nbsp;<img align="center" src="https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues&bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&rank_icon=github" alt="chimpytuts" /></p>
+<p>&nbsp;<img align="right" src="https://chimpytuts-stats-7hdz4b1ip-d3veloperxyz.vercel.app/api?username=chimpytuts&show_icons=true&include_private&hide=issues&bg_color=151515&text_color=9f9f9f&icon_color=79ff97&title_color=fff&rank_icon=github" alt="chimpytuts" /></p>
 
 
