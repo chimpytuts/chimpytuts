@@ -1,4 +1,4 @@
-### Hi there 👋, Greetings, I'm The Chimpy Tuts
+### Greetings 👋, I'm The Chimpy Tuts
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtrdmpqaXA3bWxoaHhoOTdkYXl3cXFwbnRrZWRpdXJsdTM5cXVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LbG18r0fOIrvCloht2/giphy-downsized-large.gif" alt="Chimpy Tuts">
 
 👋 I'm a seasoned fullstack developer specializing in web3 and I proudly hold the role of CTO at D3, a pioneering software company. My programming journey spans over a decade, boasting expertise honed since early beginnings.
