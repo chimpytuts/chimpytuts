@@ -7,13 +7,16 @@
   <div style="flex: 1;">
     <p>
       👋 I proudly hold the role of CTO at D3, a pioneering software company. My programming journey spans over a decade, boasting expertise honed since early beginnings.
-
+ </p>
+    <p>
       👀 My curiosity drives me to delve into cutting-edge technologies, constantly pushing the boundaries of web3's potential. I'm equally zealous about crafting software that seamlessly integrates user-friendliness, efficiency, and top-notch security.
-
+</p>
+    <p>
       🌱 My current pursuit involves deepening my grasp of blockchain (EVM) technology.
-
+</p>
+    <p>
       💞️ I thrive on collaborations that fuel innovation, particularly in the realms of web3 and decentralized applications. Should you harbor an exciting idea or a project warranting partnership, I wholeheartedly invite you to connect with me.
-    </p>
+   </p>
   </div>
   <div style="flex: 0; padding-left: 20px;">
     <img alt="ChimpyTuts" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvbmptZXlwcXNvbXRlZzJxanJ0dzBkejM2Mms0YWVjdTBoeGkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pINYy5l4mC8j3CyDJr/giphy-downsized-large.gif">
