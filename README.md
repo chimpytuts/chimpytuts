@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/9FrmrzrR/1500x500.jpg)
+<img src="https://i.postimg.cc/9FrmrzrR/1500x500.jpg" alt="MasterHead" />
 
 <h1 align="center"> Hi👋, I'm The Chimpy Tuts</h1>
 <h3 align="center">A seasoned fullstack developer specializing in web3</h3>
