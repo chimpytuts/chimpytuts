@@ -7,7 +7,7 @@
       <p>
       👋 I proudly hold the role of CTO at D3.
       </p>
-      <p align="center"> 
+      <p> 
       👀 Constantly pushing the boundaries of web3's potential.
       </p>
       <p>
