@@ -1,8 +1,7 @@
 ![MasterHead](https://i.postimg.cc/9FrmrzrR/1500x500.jpg)
 <h1 align="center"> Hi👋, I'm The Chimpy Tuts</h1>
 <h3 align="center">A seasoned fullstack developer specializing in web3</h3>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtrdmpqaXA3bWxoaHhoOTdkYXl3cXFwbnRrZWRpdXJsdTM5cXVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LbG18r0fOIrvCloht2/giphy-downsized-large.gif" alt="Chimpy Tuts">
+<img align="right" alt="ChimpyTuts" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvbmptZXlwcXNvbXRlZzJxanJ0dzBkejM2Mms0YWVjdTBoeGkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pINYy5l4mC8j3CyDJr/giphy-downsized-large.gif">
 
 👋 I proudly hold the role of CTO at D3, a pioneering software company. My programming journey spans over a decade, boasting expertise honed since early beginnings.
 
