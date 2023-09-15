@@ -8,13 +8,13 @@
       👋 I proudly hold the role of CTO at D3.
  </p>
     <p>
-      👀 My curiosity drives me to delve into cutting-edge technologies, constantly pushing the boundaries of web3's potential.
+      👀 Constantly pushing the boundaries of web3's potential.
 </p>
     <p>
-      🌱 My current pursuit involves deepening my grasp of blockchain (EVM) technology.
+      🌱 My current pursuit involves deepening my grasp of EVM technology.
 </p>
     <p>
-      💞️ I thrive on collaborations that fuel innovation, particularly in the realms of web3 and decentralized applications.
+      💞️ I thrive on collaborations that fuel innovation.
    </p>
   </div>
   <div align="right">
