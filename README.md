@@ -3,8 +3,7 @@
 <h1 align="center"> Hi👋, I'm The Chimpy Tuts</h1>
 <h3 align="center">A seasoned fullstack developer specializing in web3</h3>
 
-<div style="display: flex; align: left;">
-  <div style="flex: 1;">
+<div align="left">
     <p>
       👋 I proudly hold the role of CTO at D3, a pioneering software company. My programming journey spans over a decade, boasting expertise honed since early beginnings.
  </p>
@@ -18,9 +17,8 @@
       💞️ I thrive on collaborations that fuel innovation, particularly in the realms of web3 and decentralized applications. Should you harbor an exciting idea or a project warranting partnership, I wholeheartedly invite you to connect with me.
    </p>
   </div>
-  <div align="right" style="flex: 0; padding-left: 20px;">
+  <div align="right">
     <img alt="ChimpyTuts" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvbmptZXlwcXNvbXRlZzJxanJ0dzBkejM2Mms0YWVjdTBoeGkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pINYy5l4mC8j3CyDJr/giphy-downsized-large.gif">
-  </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
