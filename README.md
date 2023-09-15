@@ -4,16 +4,16 @@
 <h3 align="center">A seasoned fullstack developer specializing in web3</h3>
 
 <p align="center"> 
-      <p>
+      <p align="center">
       👋 I proudly hold the role of CTO at D3.
       </p>
-      <p>
+      <p align="center"> 
       👀 Constantly pushing the boundaries of web3's potential.
       </p>
-      <p>
+      <p align="center">
       🌱 My current pursuit involves deepening my grasp of EVM technology.
       </p>
-      <p>
+      <p align="center">
       💞️ I thrive on collaborations that fuel innovation.
       </p>
    </p>
