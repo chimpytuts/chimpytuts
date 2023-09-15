@@ -18,7 +18,7 @@
    </p>
   </div>
   <div align="right">
-    <img alt="ChimpyTuts" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvbmptZXlwcXNvbXRlZzJxanJ0dzBkejM2Mms0YWVjdTBoeGkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pINYy5l4mC8j3CyDJr/giphy-downsized-large.gif">
+    <img alt="ChimpyTuts" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lvbmptZXlwcXNvbXRlZzJxanJ0dzBkejM2Mms0YWVjdTBoeGkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pINYy5l4mC8j3CyDJr/giphy-downsized-large.gif">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
