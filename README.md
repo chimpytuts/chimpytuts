@@ -4,9 +4,6 @@
 <h3 align="left">A seasoned fullstack developer specializing in web3</h3>
 
 <p align="left"> 
-      <p>
-      👋 I proudly hold the role of CTO at D3.
-      </p>
       <p> 
       👀 Constantly pushing the boundaries of web3's potential.
       </p>
