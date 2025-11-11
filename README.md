@@ -5,7 +5,7 @@
 
 <div align="left">
    <p>👀 Constantly pushing the boundaries of Web3's potential.</p>
-   <p>🌱 Currently deepening my knowledge of EVM technology.</p>
+   <p>🌱 Always deepening my knowledge of EVM technology.</p>
    <p>💞️ I thrive on collaborations that fuel innovation.</p>
 </div>
 
